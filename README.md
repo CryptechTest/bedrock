@@ -1,6 +1,6 @@
 # Bedrock [`bedrock2`]
 
-Version 1.2.2
+Version 2.0.0
 
 ## Description
 This mod adds an indestructible bedrock layer at the bottom of the world.
